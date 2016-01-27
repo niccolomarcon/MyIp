@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+extension.zip
+dist
