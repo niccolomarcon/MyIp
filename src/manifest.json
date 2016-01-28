@@ -9,6 +9,12 @@
     "default_title": "Get my IP!",
     "default_popup": "popup.html"
   },
+  
+  "content_scripts": [
+    {
+      "js": ["http://l2.io/ip.js?var=ip"]
+    }
+  ],
 
   "permissions": [
      "clipboardWrite"
