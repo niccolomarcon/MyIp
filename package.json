@@ -22,5 +22,8 @@
     "grunt-minjson": "^0.3.0",
     "grunt-processhtml": "^0.3.8",
     "grunt-shell": "^1.1.2"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0"
   }
 }

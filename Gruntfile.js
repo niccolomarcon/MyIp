@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     uglify: {
       target: {
         files: {
-          'dist/js/popup.min.js': 'src/popup.js'
+          'dist/js/popup.min.js': ['node_modules/jquery/dist/jquery.min.js', 'src/popup.js']
         }
       }
     },

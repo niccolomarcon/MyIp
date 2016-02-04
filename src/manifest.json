@@ -11,6 +11,7 @@
   },
 
   "permissions": [
-     "clipboardWrite"
+     "clipboardWrite",
+     "http://codiceloco.altervista.org/"
   ]
 }
