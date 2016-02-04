@@ -1,5 +1,28 @@
-# MyIp
+## MyIp - Chrome Extension
 
-##### know your IP
+**MyIP** is a Chrome extension that allows you to immediately know the IP address of your computer/router or whatever device is connecting you to the internet.
 
-Simply press a button to copy your IP address in your clipboard!
+**MyIP** is minimalistic, just your IP.
+
+![MyIP](http://codiceloco.altervista.org/projects/MyIP/MyIP.gif)
+
+## Installation
+- In the working directory run:
+    ```
+    $ grunt
+    ```
+    It will create a `dist` folder.
+
+- On your Chrome navigate to `chrome://extensions/` and enable developer mode (top right checkbox).
+
+- Click `Load unpacked extension...` and select the `dist` folder
+
+
+
+---
+*Developed by [@niccolomarcon][nm] & [@AlexSartori][as] with [Codice Loco][cl] APIs*
+
+
+[nm]: https://github.com/niccolomarcon
+[as]: https://github.com/AlexSartori
+[cl]: http://codiceloco.ml
