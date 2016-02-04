@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512.00001 512.00001"
+   id="svg4136"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/alex/media/icon16.png"
+   inkscape:export-xdpi="2.8125"
+   inkscape:export-ydpi="2.8125"
+   sodipodi:docname="project.svg">
+  <defs
+     id="defs4138" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71055945"
+     inkscape:cx="242.77939"
+     inkscape:cy="205.14767"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="124"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="387.10982,478.66279"
+       orientation="0,1"
+       id="guide4686" />
+    <sodipodi:guide
+       position="533.39554,38.810496"
+       orientation="0,1"
+       id="guide4688" />
+    <sodipodi:guide
+       position="480.65307,263.71235"
+       orientation="1,0"
+       id="guide4690" />
+    <sodipodi:guide
+       position="27.863946,287.59573"
+       orientation="1,0"
+       id="guide4692" />
+    <sodipodi:guide
+       position="255.43254,393.35203"
+       orientation="1,0"
+       id="guide4694" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36216)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4698"
+       style="font-style:normal;font-weight:normal;font-size:125px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,540.36216)"><flowRegion
+         id="flowRegion4700"><rect
+           id="rect4702"
+           width="452.78912"
+           height="325.79962"
+           x="27.863945"
+           y="106.68557"
+           style="font-size:125px" /></flowRegion><flowPara
+         id="flowPara4704" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4706"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4708"><rect
+           id="rect4710"
+           width="8.4440508"
+           height="59.812027"
+           x="366.61252"
+           y="255.8638" /></flowRegion><flowPara
+         id="flowPara4712"></flowPara></flowRoot>    <path
+       style="font-style:normal;font-weight:normal;font-size:54.99938965px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.80325,646.4542 0,293.98975 39.77663,0 0,-293.98975 -39.77663,0 z m 118.93481,0 0,32.62453 41.51091,0 0,0.0625 48.28245,0 c 18.50976,0 32.81748,4.79084 42.92565,14.37391 10.10815,9.58307 15.16262,23.17059 15.16262,40.76142 0,17.72211 -5.05447,31.37444 -15.16262,40.95751 -10.10817,9.58308 -24.41589,14.37537 -42.92565,14.37537 l -50.01673,0 0,-0.1133 -39.77663,0 0,92.04183 39.77663,0 0,-59.24154 50.01673,0 c 32.95,0 57.82611,-7.41674 74.6293,-22.2508 16.93446,-14.83407 25.40126,-36.75731 25.40126,-65.76907 0,-28.74919 -8.4668,-50.54137 -25.40126,-65.37543 -16.80319,-14.96534 -41.6793,-22.44689 -74.6293,-22.44689 l -89.79336,0 z m 0,260.93528 0,33.05447 39.77663,0 0,-33.05447 -39.77663,0 z"
+       id="flowRoot4714"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
