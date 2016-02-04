@@ -37,7 +37,7 @@ module.exports = function(grunt) {
     },
     shell: {
       dep: {
-        command: 'zip -r -X extension.zip dist/popup.html dist/manifest.json dist/media'
+        command: 'zip -r -X extension.zip dist'
       }
     },
     htmlmin: {
