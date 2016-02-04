@@ -1,14 +1,18 @@
-console.log(ip)
-// Coping the ip into the clipboard
-var input = document.createElement('textarea');
-document.body.appendChild(input);
-input.value = ip;
-input.focus();
-input.select();
-document.execCommand('Copy');
-input.remove();
+$.ajax({
+  url: "http://codiceloco.altervista.org/services/echo_ip.php",
+}).done(function(data) {
+  $('#ip').html(data);
+  $('#ip').click(function() { copy(data); });
+});
 
-// Display the ip
-document.getElementById('ip').innerHTML = ip;
+function copy(val) {
+  var input = $('textarea');
+  document.body.appendChild(input);
+  input.value = val;
+  input.focus();
+  input.select();
+  document.execCommand('Copy');
+  input.remove();
+}
 
 
