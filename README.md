@@ -4,7 +4,7 @@
 
 **MyIP** is minimalistic, just your IP.
 
-![MyIP](http://codiceloco.altervista.org/projects/MyIP/MyIP.gif)
+![MyIP](https://github.com/niccolomarcon/MyIp/raw/master/media/icon128.png)
 
 ## Installation
 - In the working directory run:
